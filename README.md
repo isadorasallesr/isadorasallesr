@@ -1,15 +1,10 @@
 ### Hi there 👋
-### quero dormir
-
 
 
 **isadorasallesr/isadorasallesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 modificação
-Here are some ideas to get you started:
-sxsa
-cházinho 
-- 🔭 I’m currently working on ...
-Trabalhos
+
+Meu nome é Isadora e atualmente estou no segundo ano do Curso Técnico em Informática para a Internet Integrado ao Ensino Médio
 - 🌱 I’m currently learning ...
 Programação
 - 👯 I’m looking to collaborate on ...
