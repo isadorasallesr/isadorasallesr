@@ -2,10 +2,12 @@
 ### quero dormir
 
 
+
 **isadorasallesr/isadorasallesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 modificação
 Here are some ideas to get you started:
-
+sxsa
+cházinho
 - 🔭 I’m currently working on ...
 Trabalhos
 - 🌱 I’m currently learning ...
