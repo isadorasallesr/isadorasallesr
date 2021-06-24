@@ -1,15 +1,8 @@
-### Hi there 👋
-### quero dormir
+### Hi there :)
 
+Meu nome é Isadora e atualmente estou no segundo ano do Curso Técnico em Informática para a Internet Integrado ao Ensino Médio. 
+Estou estudando Banco de Dados e Desenvolvimento Web.
 
-**isadorasallesr/isadorasallesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-modificação
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-Trabalhos
-- 🌱 I’m currently learning ...
-Programação
 - 👯 I’m looking to collaborate on ...
 Não sei
 - 🤔 I’m looking for help with ...
