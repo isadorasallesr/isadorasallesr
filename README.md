@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-**isadorasallesr/isadorasallesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-modificação
+### Hi there :)
 
 Meu nome é Isadora e atualmente estou no segundo ano do Curso Técnico em Informática para a Internet Integrado ao Ensino Médio
 - 🌱 I’m currently learning ...
