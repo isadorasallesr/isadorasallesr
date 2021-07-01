@@ -14,7 +14,7 @@ Estou estudando Banco de Dados e Desenvolvimento Web.
 - Viajar 🚗
 
 ## Frase que eu gosto
-![alt text](imagem.jpg)
+(https://media.istockphoto.com/vectors/be-the-change-you-want-to-see-phrase-vector-id628362842)
 
 ## Fato engraçado
 Eu queria estar dormindo. Não é engraçado...
