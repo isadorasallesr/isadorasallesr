@@ -13,5 +13,9 @@ Estou estudando Banco de Dados e Desenvolvimento Web.
 - Jogar volêi 🏐 
 - Viajar 🚗
 
+## Frase que eu gosto
+![alt text](imagem.jpg)
+
 ## Fato engraçado
 Eu queria estar dormindo. Não é engraçado...
+
