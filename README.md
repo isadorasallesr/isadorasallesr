@@ -5,7 +5,8 @@ Estou estudando Banco de Dados e Desenvolvimento Web.
 
 ## Como me encontrar?
 - Email acadêmico: isadora.salles@acad.ufsm.br
-- Instagram: isasallesr
+- Instagram: @isasallesr
+- Facebook: Isadora Salles 
 
 ## O que eu gosto de fazer?
 - Ler 📚 (principalmente romance contemporâneo e fantasia)
@@ -13,4 +14,4 @@ Estou estudando Banco de Dados e Desenvolvimento Web.
 - Viajar 🚗
 
 ## Fato engraçado
-Eu queria estar dormindo.
+Eu queria estar dormindo. Não é engraçado...
