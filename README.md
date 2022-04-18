@@ -10,10 +10,10 @@ Estou estudando Banco de Dados e Desenvolvimento Web.
 
 ## O que eu gosto de fazer?
 - Ler ğŸ“š (principalmente romance contemporâneo e fantasia)
-- Jogar volei ğŸ 
-- Viajar ğŸš—
-- Comer ğŸ«
+- Jogar voleibol
+- Viajar
+- Comer 
 
-## Fato engraçaado
+## Fato engraçado
 Eu queria estar dormindo. Não é engraçado...
 
