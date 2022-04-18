@@ -1,19 +1,19 @@
-# Olá :)
+# OlÃ¡ :)
 
-Meu nome é **Isadora**, sou brasileira, tenho 16 anos e atualmente estou no terceiro ano do Curso Técnico em Informática para a Internet Integrado ao Ensino Médio no Colégio Técnico Industrial de Santa Maria.
+Meu nome Ã© **Isadora**, sou brasileira, tenho 16 anos e atualmente estou no terceiro ano do Curso TÃ©cnico em InformÃ¡tica para a Internet Integrado ao Ensino MÃ©dio no ColÃ©gio TÃ©cnico Industrial de Santa Maria.
 Estou estudando Banco de Dados e Desenvolvimento Web.
 
 ## Como me encontrar?
-- **Email acadêmico:** isadora.salles@acad.ufsm.br
+- **Email acadÃªmico:** isadora.salles@acad.ufsm.br
 - **Instagram:** @isasallesr
 - **Facebook:** Isadora Salles 
 
 ## O que eu gosto de fazer?
-- Ler ðŸ“š (principalmente romance contemporâneo e fantasia)
+- Ler (principalmente romance contemporÃ¢neo e fantasia)
 - Jogar voleibol
 - Viajar
 - Comer 
 
-## Fato engraçado
-Eu queria estar dormindo. Não é engraçado...
+## Fato engraÃ§ado
+Eu queria estar dormindo. NÃ£o Ã© engraÃ§ado...
 
