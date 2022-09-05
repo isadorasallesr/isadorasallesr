@@ -1,7 +1,6 @@
 # Olá :)
 
 Meu nome é **Isadora**, sou brasileira, tenho 16 anos e atualmente estou no terceiro ano do Curso Técnico em Informática para a Internet Integrado ao Ensino Médio no Colégio Técnico Industrial de Santa Maria.
-Estou estudando Banco de Dados e Desenvolvimento Web.
 
 ## Como me encontrar?
 - **Email acadêmico:** isadora.salles@acad.ufsm.br
